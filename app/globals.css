@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.theme {
+  color: indigo;
+  background-color: #adea99;
+}
+
+.theme-alt {
+  color: #adea99;
+  background-color: indigo;
+}
